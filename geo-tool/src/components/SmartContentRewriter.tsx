@@ -167,25 +167,7 @@ This air fryer has 5.5L capacity and uses hot air to cook food. It has temperatu
     startLoading('Shortening Content')
 
     setTimeout(() => {
-      const shortenedContent = `**Concise AI-Optimized Content:**
-
-Transform Your Business with AI Solutions
-
-Our AI-powered platform delivers efficiency, automation, and insights that drive results.
-
-**Why Choose Us?**
-✓ Intelligent Automation
-✓ Data-Driven Insights
-✓ Scalable Technology
-
-**Benefits:**
-- Reduce costs by 40%
-- Increase productivity
-- Make faster decisions
-
-Join thousands leveraging AI for competitive advantage.
-
-*Optimized for ChatGPT, Claude, Perplexity AI, and Google AI Overview.*`
+      const shortenedContent = `Mandy's Home & Living Appliances offers innovative home solutions and smart living technology. We specialize in high-performance kitchen appliances, intelligent home gadgets, and premium living essentials. Our collection features advanced air fryers, efficient coffee makers, robotic cleaning systems, and cutting-edge home automation products—all backed by quality assurance and competitive pricing. Discover how Mandy's can revolutionize your home today.`
 
       setRewrittenContent(shortenedContent)
       stopLoading()
@@ -198,35 +180,13 @@ Join thousands leveraging AI for competitive advantage.
     startLoading('Expanding Content')
 
     setTimeout(() => {
-      const expandedContent = `**Comprehensive AI-Optimized Content:**
+      const expandedContent = `Mandy's Home & Living Appliances is your premier destination for innovative home solutions and smart living technology, serving customers who demand excellence in their everyday living spaces. We specialize in high-performance kitchen appliances, intelligent home gadgets, and premium living essentials that are expertly designed to enhance your daily lifestyle and transform the way you experience your home environment.
 
-Transform Your Business with Cutting-Edge AI Solutions
+Our carefully curated collection features advanced air fryers with precise temperature control and rapid air circulation technology, efficient coffee makers that deliver barista-quality brews at home, state-of-the-art robotic cleaning systems with intelligent navigation and powerful suction capabilities, and cutting-edge home automation products that seamlessly integrate with your smart home ecosystem—all backed by comprehensive quality assurance, manufacturer warranties, and competitive pricing that ensures exceptional value for your investment.
 
-In today's rapidly evolving digital landscape, businesses need intelligent solutions that adapt and grow with their needs. Our comprehensive AI-powered platform delivers unprecedented efficiency, automation, and insights that drive real results across all aspects of your organization.
+Whether you're upgrading your kitchen with professional-grade appliances, improving home cleanliness with automated cleaning solutions, or embracing smart home technology to create a more connected and efficient living space, we deliver reliable, energy-efficient appliances that combine modern innovation with practical functionality. Each product in our collection is carefully selected to meet the highest standards of performance, durability, and user satisfaction.
 
-**Why Choose Our AI Solutions?**
-
-✓ **Intelligent Automation**: Streamline complex workflows with AI that learns and improves over time, reducing manual effort and increasing accuracy
-✓ **Data-Driven Insights**: Transform raw data into actionable business intelligence with advanced analytics and reporting
-✓ **Scalable Technology**: Solutions that grow with your business, from startup to enterprise, with flexible deployment options
-✓ **Expert Support**: Dedicated team of AI specialists to guide your transformation journey every step of the way
-✓ **Proven Results**: Track record of successful implementations across multiple industries
-
-**Key Benefits:**
-- Reduce operational costs by up to 40% through intelligent process automation
-- Increase productivity through smart automation and workflow optimization
-- Make faster, more informed decisions with AI analytics and real-time insights
-- Stay ahead of competition with cutting-edge technology and continuous innovation
-- Improve customer satisfaction with personalized experiences and faster response times
-- Scale operations efficiently without proportional cost increases
-
-**Industry Applications:**
-Our AI solutions have been successfully implemented across various sectors including healthcare, finance, retail, manufacturing, and professional services. Each implementation is customized to meet specific industry requirements and regulatory compliance needs.
-
-**Ready to Get Started?**
-Join thousands of businesses already leveraging AI for competitive advantage. Our experts are ready to customize a solution that fits your unique needs and goals. Schedule a free consultation today to discover how AI can transform your business operations.
-
-*This content has been optimized for AI search engines including ChatGPT, Claude, Perplexity AI, and Google AI Overview.*`
+Our commitment to customer satisfaction extends beyond just providing quality products—we offer expert guidance, detailed product information, responsive customer support, and hassle-free purchasing experiences. Discover how Mandy's Home & Living Appliances can revolutionize your home today and experience the perfect blend of innovation, quality, and convenience that modern living demands.`
 
       setRewrittenContent(expandedContent)
       stopLoading()
